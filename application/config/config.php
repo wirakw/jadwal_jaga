@@ -24,8 +24,8 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
-// $config['base_url'] = 'http://localhost/jadwal_jaga';
-$config['base_url'] = 'http://jj.opsigo.xyz/';
+$config['base_url'] = 'http://localhost/jadwal_jaga';
+// $config['base_url'] = 'http://jj.opsigo.xyz/';
 /*
 |--------------------------------------------------------------------------
 | Index File
